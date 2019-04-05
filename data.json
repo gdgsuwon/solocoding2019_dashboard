@@ -2,13 +2,9 @@
   "project": [{
       "projectId": "amazingguni/solocoding2019_base",
       "description": "메모장 앱 개발",
-      "CommitCount": 0,
-      "IssuesEvent": 0
     }, {
       "projectId": "BaylePark/GiveMeFlutter",
       "description": "Hello world",
-      "CommitCount": 0,
-      "IssuesEvent": 0
     }
   ]
 }
