@@ -1,10 +1,10 @@
 {
   "project": [{
       "projectId": "amazingguni/solocoding2019_base",
-      "description": "메모장 앱 개발",
+      "description": "메모장 앱 개발"
     }, {
       "projectId": "BaylePark/GiveMeFlutter",
-      "description": "TODO 앱 개발",
+      "description": "TODO 앱 개발"
     }
   ]
 }
