@@ -1,24 +1,12 @@
 {
   "project": [{
-      "projectId": "gdgsuwon/solocoding2019_base",
-      "projectName": "Flutter sample app 1",
-      "description": "Hello world",
-      "mentor": [{
-        "name": "Jinho",
-        "profileUrl": "https://github.com/gdgsuwon"
-      }],
-      "Repository": ["https://github.com/gdgsuwon/solocoding2019"],
+      "projectId": "amazingguni/solocoding2019_base",
+      "description": "메모장 앱 개발",
       "CommitCount": 0,
       "IssuesEvent": 0
     }, {
-      "projectId": "gdgsuwon/solocoding2019_org",
-      "projectName": "Flutter sample app 2",
+      "projectId": "BaylePark/GiveMeFlutter",
       "description": "Hello world",
-      "mentor": [{
-        "name": "Jinho",
-        "profileUrl": "https://github.com/gdgsuwon"
-      }],
-      "Repository": ["https://github.com/gdgsuwon/solocoding2019"],
       "CommitCount": 0,
       "IssuesEvent": 0
     }
