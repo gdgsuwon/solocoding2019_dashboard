@@ -30,8 +30,17 @@
       "projectId": "gyoju12/solocoding2019_base",
       "description": "계산기 앱 개발"
     }, {
+      "projectId": "HaenaraShin/solocoding2019_base",
+      "description": "메모장 앱 개발"
+    }, {
+      "projectId": "hidon84/solocoding2019_base",
+      "description": "날씨 앱 개발"
+    }, {
       "projectId": "hyeongjudev/solocoding2019_base",
       "description": "할일관리 개발"
+    }, {
+      "projectId": "hyerimmm/solocoding2019_base",
+      "description": "날씨 앱 개발"
     }, {
       "projectId": "inthewalter/solocoding2019_base",
       "description": "날씨 앱 개발"
@@ -69,11 +78,14 @@
       "projectId": "ny0011/flutter_calculator",
       "description": "계산기 앱 개발"
     }, {
+      "projectId": "peacemiki/solocoding2019_base",
+      "description": "메모장 앱 개발"
+    }, {
       "projectId": "romandev/solocoding2019_base",
       "description": "날씨 앱 개발"
     }, {
-      "projectId": "terrichoi/solocoding2019_base",
-      "description": "메모장 앱 개발"
+      "projectId": "sung-eun/flutter_calculator",
+      "description": "계산기 앱 개발"
     }, {
       "projectId": "tlfgdj7/solocoding2019_base",
       "description": "-"
