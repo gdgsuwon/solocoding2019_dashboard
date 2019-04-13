@@ -2,7 +2,7 @@
   "project": [
     {
       "isTutorial": 0, 
-      "description": "Calculator", 
+      "description": "Calculator Application", 
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2580013?v=4", 
       "projectId": "dudgus/solocoding2019_base", 
       "userId": "dudgus", 
@@ -10,7 +10,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Todo", 
+      "description": "Todo Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/7118300?v=4", 
       "projectId": "JUSTIVE/AllYourWidgetAreBelongToUs", 
       "userId": "JUSTIVE", 
@@ -18,7 +18,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Weather", 
+      "description": "Weather App Development", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/12050742?v=4", 
       "projectId": "yoonhok524/solocoding2019_base", 
       "userId": "yoonhok524", 
@@ -26,7 +26,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Map", 
+      "description": "Map Application", 
       "avatarUrl": "https://avatars0.githubusercontent.com/u/26916985?v=4", 
       "projectId": "jihyun91/solocoding2019_base", 
       "userId": "jihyun91", 
@@ -34,15 +34,15 @@
     }, 
     {
       "isTutorial": 1, 
-      "description": "Dashboard", 
+      "description": "Dashboard Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4569945?v=4", 
-      "projectId": "yjaeseok/solocoding2019_dashboard_app", 
+      "projectId": "yjaeseok/solocoding2019_Dashboard Application_app", 
       "userId": "yjaeseok", 
       "commitCount": 17
     }, 
     {
       "isTutorial": 0, 
-      "description": "Map", 
+      "description": "Map Application", 
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7637234?v=4", 
       "projectId": "Youngwuk/solocoding2019_base", 
       "userId": "Youngwuk", 
@@ -50,7 +50,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Todo", 
+      "description": "Todo Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/37387742?v=4", 
       "projectId": "hyeongjudev/solocoding2019_base", 
       "userId": "hyeongjudev", 
@@ -58,15 +58,15 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Calculator", 
+      "description": "Calculator Application", 
       "avatarUrl": "https://avatars0.githubusercontent.com/u/26994489?v=4", 
-      "projectId": "sung-eun/flutter_calculator", 
+      "projectId": "sung-eun/flutter_Calculator Application", 
       "userId": "sung-eun", 
       "commitCount": 15
     }, 
     {
       "isTutorial": 0, 
-      "description": "Weather", 
+      "description": "Weather App Development", 
       "avatarUrl": "https://avatars2.githubusercontent.com/u/7722921?v=4", 
       "projectId": "Jiyoung9310/solocoding2019_base", 
       "userId": "Jiyoung9310", 
@@ -74,7 +74,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Weather", 
+      "description": "Weather App Development", 
       "avatarUrl": "https://avatars3.githubusercontent.com/u/28642472?v=4", 
       "projectId": "inthewalter/solocoding2019_base", 
       "userId": "inthewalter", 
@@ -82,7 +82,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Calculator", 
+      "description": "Calculator Application", 
       "avatarUrl": "https://avatars0.githubusercontent.com/u/22926201?v=4", 
       "projectId": "chibimoons/solocoding2019_base", 
       "userId": "chibimoons", 
@@ -90,7 +90,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Memo", 
+      "description": "Memo Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/6846250?v=4", 
       "projectId": "fume77/solocoding2019_base", 
       "userId": "fume77", 
@@ -98,7 +98,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Weather", 
+      "description": "Weather App Development", 
       "avatarUrl": "https://avatars2.githubusercontent.com/u/47165676?v=4", 
       "projectId": "hyerimmm/solocoding2019_base", 
       "userId": "hyerimmm", 
@@ -106,7 +106,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Todo", 
+      "description": "Todo Application", 
       "avatarUrl": "https://avatars2.githubusercontent.com/u/17263598?v=4", 
       "projectId": "ironelder/solocoding2019_base", 
       "userId": "ironelder", 
@@ -114,7 +114,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Calculator", 
+      "description": "Calculator Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/13127145?v=4", 
       "projectId": "JJByun/solocoding2019_base", 
       "userId": "JJByun", 
@@ -122,7 +122,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Memo", 
+      "description": "Memo Application", 
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10495297?v=4", 
       "projectId": "peacemiki/solocoding2019_base", 
       "userId": "peacemiki", 
@@ -138,7 +138,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Weather", 
+      "description": "Weather App Development", 
       "avatarUrl": "https://avatars3.githubusercontent.com/u/42855462?v=4", 
       "projectId": "achiven/solocoding2019_base", 
       "userId": "achiven", 
@@ -146,7 +146,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Map", 
+      "description": "Map Application", 
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10232304?v=4", 
       "projectId": "cosmicb0y/solocoding2019_base", 
       "userId": "cosmicb0y", 
@@ -162,7 +162,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Memo", 
+      "description": "Memo Application", 
       "avatarUrl": "https://avatars2.githubusercontent.com/u/29536880?v=4", 
       "projectId": "HaenaraShin/solocoding2019_base", 
       "userId": "HaenaraShin", 
@@ -170,7 +170,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Weather", 
+      "description": "Weather App Development", 
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7187798?v=4", 
       "projectId": "hidon84/solocoding2019_base", 
       "userId": "hidon84", 
@@ -178,7 +178,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Memo", 
+      "description": "Memo Application", 
       "avatarUrl": "https://avatars0.githubusercontent.com/u/6122066?v=4", 
       "projectId": "Hoyuo/solocoding2019_base", 
       "userId": "Hoyuo", 
@@ -186,7 +186,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Map", 
+      "description": "Map Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/41178824?v=4", 
       "projectId": "kofboy2000/solocoding2019_base", 
       "userId": "kofboy2000", 
@@ -194,9 +194,9 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Calculator", 
+      "description": "Calculator Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/22537805?v=4", 
-      "projectId": "ny0011/flutter_calculator", 
+      "projectId": "ny0011/flutter_Calculator Application", 
       "userId": "ny0011", 
       "commitCount": 9
     }, 
@@ -210,7 +210,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Memo", 
+      "description": "Memo Application", 
       "avatarUrl": "https://avatars2.githubusercontent.com/u/21276999?v=4", 
       "projectId": "woo972/solocoding2019_base", 
       "userId": "woo972", 
@@ -218,7 +218,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Memo", 
+      "description": "Memo Application", 
       "avatarUrl": "https://avatars2.githubusercontent.com/u/805369?v=4", 
       "projectId": "creduo/solocoding2019_base", 
       "userId": "creduo", 
@@ -226,7 +226,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Weather", 
+      "description": "Weather App Development", 
       "avatarUrl": "https://avatars0.githubusercontent.com/u/22093339?v=4", 
       "projectId": "dohun94/solocoding2019_base", 
       "userId": "dohun94", 
@@ -234,7 +234,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Calculator", 
+      "description": "Calculator Application", 
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2312090?v=4", 
       "projectId": "gyoju12/solocoding2019_base", 
       "userId": "gyoju12", 
@@ -242,7 +242,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Weather", 
+      "description": "Weather App Development", 
       "avatarUrl": "https://avatars2.githubusercontent.com/u/8033508?v=4", 
       "projectId": "meeeejin/solocoding2019_base", 
       "userId": "meeeejin", 
@@ -250,7 +250,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Map", 
+      "description": "Map Application", 
       "avatarUrl": "https://avatars0.githubusercontent.com/u/31017909?v=4", 
       "projectId": "mustroot/solocoding2019_base", 
       "userId": "mustroot", 
@@ -258,7 +258,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Weather", 
+      "description": "Weather App Development", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/44540451?v=4", 
       "projectId": "narsyaj/solocoding2019_base", 
       "userId": "narsyaj", 
@@ -266,7 +266,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Weather", 
+      "description": "Weather App Development", 
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1445542?v=4", 
       "projectId": "nurinamu/solocoding2019_base", 
       "userId": "nurinamu", 
@@ -274,7 +274,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Todo", 
+      "description": "Todo Application", 
       "avatarUrl": "https://avatars2.githubusercontent.com/u/42856196?v=4", 
       "projectId": "YJZZING/solocoding2019_base", 
       "userId": "YJZZING", 
@@ -282,7 +282,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Calculator", 
+      "description": "Calculator Application", 
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6939460?v=4", 
       "projectId": "yoonjaepark/solocoding2019_base", 
       "userId": "yoonjaepark", 
@@ -290,7 +290,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Memo", 
+      "description": "Memo Application", 
       "avatarUrl": "https://avatars0.githubusercontent.com/u/13607839?v=4", 
       "projectId": "amazingguni/solocoding2019_base", 
       "userId": "amazingguni", 
@@ -298,7 +298,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Todo", 
+      "description": "Todo Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/25128184?v=4", 
       "projectId": "BaylePark/GiveMeFlutter", 
       "userId": "BaylePark", 
@@ -306,7 +306,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Calculator", 
+      "description": "Calculator Application", 
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6077774?v=4", 
       "projectId": "binsoopark/solocoding2019_base", 
       "userId": "binsoopark", 
@@ -314,7 +314,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Todo", 
+      "description": "Todo Application", 
       "avatarUrl": "https://avatars2.githubusercontent.com/u/34815234?v=4", 
       "projectId": "jdragonbae/solocoding2019_base", 
       "userId": "jdragonbae", 
@@ -322,7 +322,7 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Weather", 
+      "description": "Weather App Development", 
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1106770?v=4", 
       "projectId": "romandev/solocoding2019_base", 
       "userId": "romandev", 
