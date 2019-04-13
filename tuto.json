@@ -2,6 +2,16 @@
   "project": [
     {
       "projectId": "yjaeseok/solocoding2019_dashboard_app"
+    }, {
+      "projectId": "JUSTIVE/solocoding2019_base"
+    }, {
+      "projectId": "hyeongjudev/solocoding2019_base"
+    }, {
+      "projectId": "yoonhok524/solocoding2019_base"
+    }, {
+      "projectId": "Youngwuk/solocoding2019_base"
+    }, {
+      "projectId": "Jiyoung9310/solocoding2019_base"
     }
   ]
 } 
