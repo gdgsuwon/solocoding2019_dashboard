@@ -1,17 +1,17 @@
 {
   "project": [
     {
-      "projectId": "yjaeseok/solocoding2019_dashboard_app"
+      "userId": "yjaeseok"
     }, {
-      "projectId": "JUSTIVE/solocoding2019_base"
+      "userId": "JUSTIVE"
     }, {
-      "projectId": "hyeongjudev/solocoding2019_base"
+      "userId": "hyeongjudev"
     }, {
-      "projectId": "yoonhok524/solocoding2019_base"
+      "userId": "yoonhok524"
     }, {
-      "projectId": "Youngwuk/solocoding2019_base"
+      "userId": "Youngwuk"
     }, {
-      "projectId": "Jiyoung9310/solocoding2019_base"
+      "userId": "Jiyoung9310"
     }
   ]
 } 
