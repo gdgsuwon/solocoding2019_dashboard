@@ -33,6 +33,14 @@
       "commitCount": 19
     }, 
     {
+      "isTutorial": 1, 
+      "description": "Dashboard", 
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/4569945?v=4", 
+      "projectId": "yjaeseok/solocoding2019_dashboard_app", 
+      "userId": "yjaeseok", 
+      "commitCount": 17
+    }, 
+    {
       "isTutorial": 0, 
       "description": "Map", 
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7637234?v=4", 
@@ -54,14 +62,6 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/26994489?v=4", 
       "projectId": "sung-eun/flutter_calculator", 
       "userId": "sung-eun", 
-      "commitCount": 15
-    }, 
-    {
-      "isTutorial": 1, 
-      "description": "Dashboard", 
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/4569945?v=4", 
-      "projectId": "yjaeseok/solocoding2019_dashboard_app", 
-      "userId": "yjaeseok", 
       "commitCount": 15
     }, 
     {
