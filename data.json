@@ -25,19 +25,19 @@
       "commitCount": 22
     }, 
     {
-      "isTutorial": 0, 
-      "description": "Map Application", 
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/26916985?v=4", 
-      "projectId": "jihyun91/solocoding2019_base", 
-      "userId": "jihyun91", 
-      "commitCount": 19
-    }, 
-    {
       "isTutorial": 1, 
       "description": "Dashboard Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4569945?v=4", 
       "projectId": "yjaeseok/solocoding2019_dashboard_app", 
       "userId": "yjaeseok", 
+      "commitCount": 21
+    }, 
+    {
+      "isTutorial": 0, 
+      "description": "Map Application", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/26916985?v=4", 
+      "projectId": "jihyun91/solocoding2019_base", 
+      "userId": "jihyun91", 
       "commitCount": 19
     }, 
     {
