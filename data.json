@@ -391,6 +391,38 @@
       "projectId": "romandev/solocoding2019_base", 
       "userId": "romandev", 
       "commitCount": 7
+    },
+    {
+      "projectId": "ahsj132/solocoding2019_base",
+      "description": "Memo Application"
+    },
+    {
+      "projectId": "chongchong2/solocoding2019_base",
+      "description": "Weather Application"
+    },
+    {
+      "projectId": "closer27/solocoding2019_base",
+      "description": "Todo Application"
+    },
+    {
+      "projectId": "CreatorKim/solocoding2019_base",
+      "description": "-"
+    },
+    {
+      "projectId": "denlyou/solocoding2019_base",
+      "description": "Weather Application"
+    },
+    {
+      "projectId": "DevRudy/solocoding2019_base",
+      "description": "-"
+    },
+    {
+      "projectId": "dragonrak/solocoding2019_base",
+      "description": "-"
+    },
+    {
+      "projectId": "songkiwon7/solocoding2019_base",
+      "description": "Todo Application"
     }
   ]
 }
