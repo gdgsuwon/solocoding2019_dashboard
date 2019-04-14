@@ -9,20 +9,20 @@
       "commitCount": 26
     }, 
     {
+      "isTutorial": 0, 
+      "description": "Weather Application", 
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/2580013?v=4", 
+      "projectId": "dudgus/solocoding2019_base", 
+      "userId": "dudgus", 
+      "commitCount": 26
+    }, 
+    {
       "isTutorial": 1, 
       "description": "Todo Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/7118300?v=4", 
       "projectId": "JUSTIVE/AllYourWidgetAreBelongToUs", 
       "userId": "JUSTIVE", 
       "commitCount": 25
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Weather Application", 
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/2580013?v=4", 
-      "projectId": "dudgus/solocoding2019_base", 
-      "userId": "dudgus", 
-      "commitCount": 23
     }, 
     {
       "isTutorial": 1, 
