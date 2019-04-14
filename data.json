@@ -2,18 +2,18 @@
   "project": [
     {
       "isTutorial": 1, 
-      "description": "Weather Application", 
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/12050742?v=4", 
-      "projectId": "yoonhok524/solocoding2019_base", 
-      "userId": "yoonhok524", 
-      "commitCount": 23
-    }, 
-    {
-      "isTutorial": 1, 
       "description": "Todo Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/7118300?v=4", 
       "projectId": "JUSTIVE/AllYourWidgetAreBelongToUs", 
       "userId": "JUSTIVE", 
+      "commitCount": 24
+    }, 
+    {
+      "isTutorial": 1, 
+      "description": "Weather Application", 
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/12050742?v=4", 
+      "projectId": "yoonhok524/solocoding2019_base", 
+      "userId": "yoonhok524", 
       "commitCount": 23
     }, 
     {
@@ -70,7 +70,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/7722921?v=4", 
       "projectId": "Jiyoung9310/solocoding2019_base", 
       "userId": "Jiyoung9310", 
-      "commitCount": 13
+      "commitCount": 15
     }, 
     {
       "isTutorial": 0, 
