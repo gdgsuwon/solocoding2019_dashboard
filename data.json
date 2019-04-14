@@ -170,6 +170,14 @@
     }, 
     {
       "isTutorial": 0, 
+      "description": "Todo Application", 
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/42856196?v=4", 
+      "projectId": "YJZZING/solocoding2019_base", 
+      "userId": "YJZZING", 
+      "commitCount": 10
+    }, 
+    {
+      "isTutorial": 0, 
       "description": "-", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/33682498?v=4", 
       "projectId": "5kong2/solocoding2019_base", 
@@ -342,14 +350,6 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1445542?v=4", 
       "projectId": "nurinamu/solocoding2019_base", 
       "userId": "nurinamu", 
-      "commitCount": 8
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Todo Application", 
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/42856196?v=4", 
-      "projectId": "YJZZING/solocoding2019_base", 
-      "userId": "YJZZING", 
       "commitCount": 8
     }, 
     {
