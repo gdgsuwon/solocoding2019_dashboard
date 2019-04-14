@@ -57,6 +57,14 @@
       "commitCount": 18
     }, 
     {
+      "isTutorial": 0, 
+      "description": "Weather Application", 
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/28588348?v=4", 
+      "projectId": "chongchong2/solocoding2019_base", 
+      "userId": "chongchong2", 
+      "commitCount": 17
+    }, 
+    {
       "isTutorial": 1, 
       "description": "Map Application", 
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7637234?v=4", 
@@ -82,10 +90,26 @@
     }, 
     {
       "isTutorial": 0, 
+      "description": "Weather Application", 
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/12027688?v=4", 
+      "projectId": "denlyou/solocoding2019_base", 
+      "userId": "denlyou", 
+      "commitCount": 14
+    }, 
+    {
+      "isTutorial": 0, 
       "description": "Calculator Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/22537805?v=4", 
       "projectId": "ny0011/flutter_calculator", 
       "userId": "ny0011", 
+      "commitCount": 11
+    }, 
+    {
+      "isTutorial": 0, 
+      "description": "Todo Application", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/49572961?v=4", 
+      "projectId": "songkiwon7/solocoding2019_base", 
+      "userId": "songkiwon7", 
       "commitCount": 11
     }, 
     {
@@ -222,6 +246,46 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/21276999?v=4", 
       "projectId": "woo972/solocoding2019_base", 
       "userId": "woo972", 
+      "commitCount": 9
+    }, 
+    {
+      "isTutorial": 0, 
+      "description": "Memo Application", 
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/35722846?v=4", 
+      "projectId": "ahsj132/solocoding2019_base", 
+      "userId": "ahsj132", 
+      "commitCount": 9
+    }, 
+    {
+      "isTutorial": 0, 
+      "description": "Todo Application", 
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1941113?v=4", 
+      "projectId": "closer27/solocoding2019_base", 
+      "userId": "closer27", 
+      "commitCount": 9
+    }, 
+    {
+      "isTutorial": 0, 
+      "description": "-", 
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/23479206?v=4", 
+      "projectId": "CreatorKim/solocoding2019_base", 
+      "userId": "CreatorKim", 
+      "commitCount": 9
+    }, 
+    {
+      "isTutorial": 0, 
+      "description": "-", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/32890880?v=4", 
+      "projectId": "DevRudy/solocoding2019_base", 
+      "userId": "DevRudy", 
+      "commitCount": 9
+    }, 
+    {
+      "isTutorial": 0, 
+      "description": "-", 
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/39517210?v=4", 
+      "projectId": "dragonrak/solocoding2019_base", 
+      "userId": "dragonrak", 
       "commitCount": 9
     }, 
     {
