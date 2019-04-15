@@ -110,7 +110,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/22537805?v=4", 
       "projectId": "ny0011/flutter_calculator", 
       "userId": "ny0011", 
-      "commitCount": 13
+      "commitCount": 14
     }, 
     {
       "isTutorial": 0, 
@@ -186,18 +186,18 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "-", 
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/33682498?v=4", 
-      "projectId": "5kong2/solocoding2019_base", 
-      "userId": "5kong2", 
-      "commitCount": 9
-    }, 
-    {
-      "isTutorial": 0, 
       "description": "Weather Application", 
       "avatarUrl": "https://avatars3.githubusercontent.com/u/42855462?v=4", 
       "projectId": "achiven/solocoding2019_base", 
       "userId": "achiven", 
+      "commitCount": 10
+    }, 
+    {
+      "isTutorial": 0, 
+      "description": "-", 
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/33682498?v=4", 
+      "projectId": "5kong2/solocoding2019_base", 
+      "userId": "5kong2", 
       "commitCount": 9
     }, 
     {
