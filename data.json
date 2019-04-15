@@ -106,6 +106,14 @@
     }, 
     {
       "isTutorial": 0, 
+      "description": "Todo Application", 
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/17263598?v=4", 
+      "projectId": "ironelder/solocoding2019_base", 
+      "userId": "ironelder", 
+      "commitCount": 12
+    }, 
+    {
+      "isTutorial": 0, 
       "description": "Calculator Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/22537805?v=4", 
       "projectId": "ny0011/flutter_calculator", 
@@ -150,14 +158,6 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/47165676?v=4", 
       "projectId": "hyerimmm/solocoding2019_base", 
       "userId": "hyerimmm", 
-      "commitCount": 10
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Todo Application", 
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/17263598?v=4", 
-      "projectId": "ironelder/solocoding2019_base", 
-      "userId": "ironelder", 
       "commitCount": 10
     }, 
     {
