@@ -42,18 +42,18 @@
     }, 
     {
       "isTutorial": 1, 
-      "description": "Weather Application", 
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/7722921?v=4", 
-      "projectId": "Jiyoung9310/solocoding2019_base", 
-      "userId": "Jiyoung9310", 
-      "commitCount": 18
-    }, 
-    {
-      "isTutorial": 1, 
       "description": "Todo Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/37387742?v=4", 
       "projectId": "hyeongjudev/solocoding2019_base", 
       "userId": "hyeongjudev", 
+      "commitCount": 19
+    }, 
+    {
+      "isTutorial": 1, 
+      "description": "Weather Application", 
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7722921?v=4", 
+      "projectId": "Jiyoung9310/solocoding2019_base", 
+      "userId": "Jiyoung9310", 
       "commitCount": 18
     }, 
     {
@@ -138,6 +138,14 @@
     }, 
     {
       "isTutorial": 0, 
+      "description": "Weather Application", 
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/42855462?v=4", 
+      "projectId": "achiven/solocoding2019_base", 
+      "userId": "achiven", 
+      "commitCount": 11
+    }, 
+    {
+      "isTutorial": 0, 
       "description": "Calculator Application", 
       "avatarUrl": "https://avatars0.githubusercontent.com/u/22926201?v=4", 
       "projectId": "chibimoons/solocoding2019_base", 
@@ -182,14 +190,6 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/34815234?v=4", 
       "projectId": "jdragonbae/solocoding2019_base", 
       "userId": "jdragonbae", 
-      "commitCount": 10
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Weather Application", 
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/42855462?v=4", 
-      "projectId": "achiven/solocoding2019_base", 
-      "userId": "achiven", 
       "commitCount": 10
     }, 
     {
