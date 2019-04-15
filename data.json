@@ -65,6 +65,14 @@
       "commitCount": 17
     }, 
     {
+      "isTutorial": 0, 
+      "description": "Weather Application", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1445542?v=4", 
+      "projectId": "nurinamu/solocoding2019_base", 
+      "userId": "nurinamu", 
+      "commitCount": 16
+    }, 
+    {
       "isTutorial": 1, 
       "description": "Map Application", 
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7637234?v=4", 
@@ -95,14 +103,6 @@
       "projectId": "denlyou/solocoding2019_base", 
       "userId": "denlyou", 
       "commitCount": 14
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Weather Application", 
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1445542?v=4", 
-      "projectId": "nurinamu/solocoding2019_base", 
-      "userId": "nurinamu", 
-      "commitCount": 13
     }, 
     {
       "isTutorial": 0, 
