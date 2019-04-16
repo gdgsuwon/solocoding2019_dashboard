@@ -114,18 +114,18 @@
     }, 
     {
       "isTutorial": 0, 
-      "description": "Todo Application", 
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/17263598?v=4", 
-      "projectId": "ironelder/solocoding2019_base", 
-      "userId": "ironelder", 
-      "commitCount": 12
-    }, 
-    {
-      "isTutorial": 0, 
       "description": "Weather Application", 
       "avatarUrl": "https://avatars3.githubusercontent.com/u/42855462?v=4", 
       "projectId": "achiven/solocoding2019_base", 
       "userId": "achiven", 
+      "commitCount": 13
+    }, 
+    {
+      "isTutorial": 0, 
+      "description": "Todo Application", 
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/17263598?v=4", 
+      "projectId": "ironelder/solocoding2019_base", 
+      "userId": "ironelder", 
       "commitCount": 12
     }, 
     {
