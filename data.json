@@ -194,6 +194,14 @@
     }, 
     {
       "isTutorial": 0, 
+      "description": "Memo Application", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/6122066?v=4", 
+      "projectId": "Hoyuo/solocoding2019_base", 
+      "userId": "Hoyuo", 
+      "commitCount": 10
+    }, 
+    {
+      "isTutorial": 0, 
       "description": "-", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/33682498?v=4", 
       "projectId": "5kong2/solocoding2019_base", 
@@ -230,14 +238,6 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7187798?v=4", 
       "projectId": "hidon84/solocoding2019_base", 
       "userId": "hidon84", 
-      "commitCount": 9
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Memo Application", 
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/6122066?v=4", 
-      "projectId": "Hoyuo/solocoding2019_base", 
-      "userId": "Hoyuo", 
       "commitCount": 9
     }, 
     {
