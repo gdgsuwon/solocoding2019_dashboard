@@ -14,7 +14,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/12050742?v=4", 
       "projectId": "yoonhok524/solocoding2019_base", 
       "userId": "yoonhok524", 
-      "commitCount": 30
+      "commitCount": 32
     }, 
     {
       "isTutorial": 0, 
@@ -134,7 +134,7 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/42856196?v=4", 
       "projectId": "YJZZING/solocoding2019_base", 
       "userId": "YJZZING", 
-      "commitCount": 13
+      "commitCount": 14
     }, 
     {
       "isTutorial": 0, 
@@ -267,14 +267,6 @@
     {
       "isTutorial": 0, 
       "description": "Memo Application", 
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/21276999?v=4", 
-      "projectId": "woo972/FlutterSimpleMemoApp", 
-      "userId": "woo972", 
-      "commitCount": 9
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Memo Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/35722846?v=4", 
       "projectId": "ahsj132/solocoding2019_base", 
       "userId": "ahsj132", 
@@ -391,6 +383,14 @@
       "projectId": "romandev/solocoding2019_base", 
       "userId": "romandev", 
       "commitCount": 7
+    }, 
+    {
+      "isTutorial": 0, 
+      "description": "Memo Application", 
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/21276999?v=4", 
+      "projectId": "woo972/FlutterSimpleMemoApp", 
+      "userId": "woo972", 
+      "commitCount": 4
     }
   ]
 }
