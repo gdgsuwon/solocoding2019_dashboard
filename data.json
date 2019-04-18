@@ -6,7 +6,10 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/7118300?v=4", 
       "projectId": "JUSTIVE/AllYourWidgetAreBelongToUs", 
       "userId": "JUSTIVE", 
-      "commitCount": 32
+      "commitCount": 32, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 1, 
@@ -14,7 +17,10 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/12050742?v=4", 
       "projectId": "yoonhok524/solocoding2019_base", 
       "userId": "yoonhok524", 
-      "commitCount": 32
+      "commitCount": 32, 
+      "newFeatureScore": "0", 
+      "defaultFeatureScore": "50", 
+      "readmeScore": "5"
     }, 
     {
       "isTutorial": 0, 
@@ -22,7 +28,10 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2580013?v=4", 
       "projectId": "dudgus/solocoding2019_base", 
       "userId": "dudgus", 
-      "commitCount": 29
+      "commitCount": 29, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -30,7 +39,10 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/26916985?v=4", 
       "projectId": "jihyun91/solocoding2019_base", 
       "userId": "jihyun91", 
-      "commitCount": 26
+      "commitCount": 26, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 1, 
@@ -38,7 +50,10 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4569945?v=4", 
       "projectId": "yjaeseok/solocoding2019_dashboard_app", 
       "userId": "yjaeseok", 
-      "commitCount": 26
+      "commitCount": 26, 
+      "newFeatureScore": "2", 
+      "defaultFeatureScore": "10", 
+      "readmeScore": "5"
     }, 
     {
       "isTutorial": 1, 
@@ -46,7 +61,10 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/37387742?v=4", 
       "projectId": "hyeongjudev/solocoding2019_base", 
       "userId": "hyeongjudev", 
-      "commitCount": 24
+      "commitCount": 24, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 1, 
@@ -54,7 +72,10 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/7722921?v=4", 
       "projectId": "Jiyoung9310/solocoding2019_base", 
       "userId": "Jiyoung9310", 
-      "commitCount": 18
+      "commitCount": 18, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -62,7 +83,10 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/26994489?v=4", 
       "projectId": "sung-eun/flutter_calculator", 
       "userId": "sung-eun", 
-      "commitCount": 18
+      "commitCount": 18, 
+      "newFeatureScore": "0", 
+      "defaultFeatureScore": "20", 
+      "readmeScore": "5"
     }, 
     {
       "isTutorial": 1, 
@@ -70,7 +94,10 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28588348?v=4", 
       "projectId": "chongchong2/solocoding2019_base", 
       "userId": "chongchong2", 
-      "commitCount": 17
+      "commitCount": 17, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -78,7 +105,10 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/22537805?v=4", 
       "projectId": "ny0011/flutter_calculator", 
       "userId": "ny0011", 
-      "commitCount": 17
+      "commitCount": 17, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -86,7 +116,10 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1445542?v=4", 
       "projectId": "nurinamu/solocoding2019_base", 
       "userId": "nurinamu", 
-      "commitCount": 16
+      "commitCount": 16, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -94,7 +127,10 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/8033508?v=4", 
       "projectId": "meeeejin/solocoding2019_base", 
       "userId": "meeeejin", 
-      "commitCount": 16
+      "commitCount": 16, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 1, 
@@ -102,7 +138,10 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7637234?v=4", 
       "projectId": "Youngwuk/solocoding2019_base", 
       "userId": "Youngwuk", 
-      "commitCount": 15
+      "commitCount": 15, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -110,7 +149,10 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/28642472?v=4", 
       "projectId": "inthewalter/solocoding2019_base", 
       "userId": "inthewalter", 
-      "commitCount": 14
+      "commitCount": 14, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -118,7 +160,10 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/12027688?v=4", 
       "projectId": "denlyou/solocoding2019_base", 
       "userId": "denlyou", 
-      "commitCount": 14
+      "commitCount": 14, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -126,7 +171,10 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/42855462?v=4", 
       "projectId": "achiven/solocoding2019_base", 
       "userId": "achiven", 
-      "commitCount": 14
+      "commitCount": 14, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -134,7 +182,10 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/42856196?v=4", 
       "projectId": "YJZZING/solocoding2019_base", 
       "userId": "YJZZING", 
-      "commitCount": 14
+      "commitCount": 14, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -142,7 +193,10 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/17263598?v=4", 
       "projectId": "ironelder/solocoding2019_base", 
       "userId": "ironelder", 
-      "commitCount": 12
+      "commitCount": 12, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 1, 
@@ -150,7 +204,10 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/49572961?v=4", 
       "projectId": "songkiwon7/solocoding2019_base", 
       "userId": "songkiwon7", 
-      "commitCount": 11
+      "commitCount": 11, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -158,7 +215,10 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/22926201?v=4", 
       "projectId": "chibimoons/solocoding2019_base", 
       "userId": "chibimoons", 
-      "commitCount": 10
+      "commitCount": 10, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -166,7 +226,10 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/6846250?v=4", 
       "projectId": "fume77/solocoding2019_base", 
       "userId": "fume77", 
-      "commitCount": 10
+      "commitCount": 10, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -174,7 +237,10 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/47165676?v=4", 
       "projectId": "hyerimmm/solocoding2019_base", 
       "userId": "hyerimmm", 
-      "commitCount": 10
+      "commitCount": 10, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -182,7 +248,10 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/13127145?v=4", 
       "projectId": "JJByun/solocoding2019_base", 
       "userId": "JJByun", 
-      "commitCount": 10
+      "commitCount": 10, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -190,7 +259,10 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10495297?v=4", 
       "projectId": "peacemiki/solocoding2019_base", 
       "userId": "peacemiki", 
-      "commitCount": 10
+      "commitCount": 10, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -198,7 +270,10 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/34815234?v=4", 
       "projectId": "jdragonbae/solocoding2019_base", 
       "userId": "jdragonbae", 
-      "commitCount": 10
+      "commitCount": 10, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -206,7 +281,10 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/6122066?v=4", 
       "projectId": "Hoyuo/solocoding2019_base", 
       "userId": "Hoyuo", 
-      "commitCount": 10
+      "commitCount": 10, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -214,7 +292,10 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/33682498?v=4", 
       "projectId": "5kong2/solocoding2019_base", 
       "userId": "5kong2", 
-      "commitCount": 9
+      "commitCount": 9, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -222,7 +303,10 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/10232304?v=4", 
       "projectId": "cosmicb0y/solocoding2019_base", 
       "userId": "cosmicb0y", 
-      "commitCount": 9
+      "commitCount": 9, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -230,7 +314,10 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/17218533?v=4", 
       "projectId": "epelin/solocoding2019_base", 
       "userId": "epelin", 
-      "commitCount": 9
+      "commitCount": 9, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -238,7 +325,10 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/29536880?v=4", 
       "projectId": "HaenaraShin/solocoding2019_base", 
       "userId": "HaenaraShin", 
-      "commitCount": 9
+      "commitCount": 9, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -246,7 +336,10 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/7187798?v=4", 
       "projectId": "hidon84/solocoding2019_base", 
       "userId": "hidon84", 
-      "commitCount": 9
+      "commitCount": 9, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -254,7 +347,10 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/41178824?v=4", 
       "projectId": "kofboy2000/solocoding2019_base", 
       "userId": "kofboy2000", 
-      "commitCount": 9
+      "commitCount": 9, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -262,7 +358,10 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/5705092?v=4", 
       "projectId": "tlfgdj7/solocoding2019_base", 
       "userId": "tlfgdj7", 
-      "commitCount": 9
+      "commitCount": 9, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -270,7 +369,10 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/35722846?v=4", 
       "projectId": "ahsj132/solocoding2019_base", 
       "userId": "ahsj132", 
-      "commitCount": 9
+      "commitCount": 9, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -278,7 +380,10 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1941113?v=4", 
       "projectId": "closer27/solocoding2019_base", 
       "userId": "closer27", 
-      "commitCount": 9
+      "commitCount": 9, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -286,7 +391,10 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/23479206?v=4", 
       "projectId": "CreatorKim/solocoding2019_base", 
       "userId": "CreatorKim", 
-      "commitCount": 9
+      "commitCount": 9, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -294,7 +402,10 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/32890880?v=4", 
       "projectId": "DevRudy/solocoding2019_base", 
       "userId": "DevRudy", 
-      "commitCount": 9
+      "commitCount": 9, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -302,7 +413,10 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/39517210?v=4", 
       "projectId": "dragonrak/solocoding2019_base", 
       "userId": "dragonrak", 
-      "commitCount": 9
+      "commitCount": 9, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -310,7 +424,10 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/805369?v=4", 
       "projectId": "creduo/solocoding2019_base", 
       "userId": "creduo", 
-      "commitCount": 8
+      "commitCount": 8, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -318,7 +435,10 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/22093339?v=4", 
       "projectId": "dohun94/solocoding2019_base", 
       "userId": "dohun94", 
-      "commitCount": 8
+      "commitCount": 8, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -326,7 +446,10 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2312090?v=4", 
       "projectId": "gyoju12/solocoding2019_base", 
       "userId": "gyoju12", 
-      "commitCount": 8
+      "commitCount": 8, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -334,7 +457,10 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/31017909?v=4", 
       "projectId": "mustroot/solocoding2019_base", 
       "userId": "mustroot", 
-      "commitCount": 8
+      "commitCount": 8, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -342,7 +468,10 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/44540451?v=4", 
       "projectId": "narsyaj/solocoding2019_base", 
       "userId": "narsyaj", 
-      "commitCount": 8
+      "commitCount": 8, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -350,7 +479,10 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6939460?v=4", 
       "projectId": "yoonjaepark/solocoding2019_base", 
       "userId": "yoonjaepark", 
-      "commitCount": 8
+      "commitCount": 8, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -358,7 +490,10 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/13607839?v=4", 
       "projectId": "amazingguni/solocoding2019_base", 
       "userId": "amazingguni", 
-      "commitCount": 7
+      "commitCount": 7, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -366,7 +501,10 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/25128184?v=4", 
       "projectId": "BaylePark/GiveMeFlutter", 
       "userId": "BaylePark", 
-      "commitCount": 7
+      "commitCount": 7, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -374,7 +512,10 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6077774?v=4", 
       "projectId": "binsoopark/solocoding2019_base", 
       "userId": "binsoopark", 
-      "commitCount": 7
+      "commitCount": 7, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -382,7 +523,10 @@
       "avatarUrl": "https://avatars0.githubusercontent.com/u/1106770?v=4", 
       "projectId": "romandev/solocoding2019_base", 
       "userId": "romandev", 
-      "commitCount": 7
+      "commitCount": 7, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -390,7 +534,10 @@
       "avatarUrl": "https://avatars2.githubusercontent.com/u/21276999?v=4", 
       "projectId": "woo972/FlutterSimpleMemoApp", 
       "userId": "woo972", 
-      "commitCount": 4
+      "commitCount": 4, 
+      "newFeatureScore": "2", 
+      "defaultFeatureScore": "10", 
+      "readmeScore": "5"
     }
   ]
 }
