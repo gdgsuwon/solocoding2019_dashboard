@@ -7,9 +7,9 @@
       "projectId": "yoonhok524/solocoding2019_base", 
       "userId": "yoonhok524", 
       "commitCount": 33, 
-      "newFeatureScore": "0", 
-      "defaultFeatureScore": "50", 
-      "readmeScore": "5"
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 50, 
+      "readmeScore": 5
     }, 
     {
       "isTutorial": 1, 
@@ -62,9 +62,9 @@
       "projectId": "yjaeseok/solocoding2019_dashboard_app", 
       "userId": "yjaeseok", 
       "commitCount": 26, 
-      "newFeatureScore": "2", 
-      "defaultFeatureScore": "10", 
-      "readmeScore": "5"
+      "newFeatureScore": 2, 
+      "defaultFeatureScore": 10, 
+      "readmeScore": 5
     }, 
     {
       "isTutorial": 1, 
@@ -84,9 +84,9 @@
       "projectId": "sung-eun/flutter_calculator", 
       "userId": "sung-eun", 
       "commitCount": 18, 
-      "newFeatureScore": "0", 
-      "defaultFeatureScore": "20", 
-      "readmeScore": "5"
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 20, 
+      "readmeScore": 5
     }, 
     {
       "isTutorial": 1, 
@@ -535,9 +535,9 @@
       "projectId": "woo972/FlutterSimpleMemoApp", 
       "userId": "woo972", 
       "commitCount": 4, 
-      "newFeatureScore": "2", 
-      "defaultFeatureScore": "10", 
-      "readmeScore": "5"
+      "newFeatureScore": 2, 
+      "defaultFeatureScore": 10, 
+      "readmeScore": 5
     }
   ]
 }
