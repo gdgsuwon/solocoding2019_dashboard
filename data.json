@@ -57,6 +57,14 @@
       "commitCount": 18
     }, 
     {
+      "isTutorial": 0, 
+      "description": "Calculator Application", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/26994489?v=4", 
+      "projectId": "sung-eun/flutter_calculator", 
+      "userId": "sung-eun", 
+      "commitCount": 18
+    }, 
+    {
       "isTutorial": 1, 
       "description": "Weather Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28588348?v=4", 
@@ -70,14 +78,6 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/22537805?v=4", 
       "projectId": "ny0011/flutter_calculator", 
       "userId": "ny0011", 
-      "commitCount": 17
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Calculator Application", 
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/26994489?v=4", 
-      "projectId": "sung-eun/flutter_calculator", 
-      "userId": "sung-eun", 
       "commitCount": 17
     }, 
     {
