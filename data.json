@@ -67,6 +67,17 @@
       "readmeScore": 0
     }, 
     {
+      "isTutorial": 0, 
+      "description": "Calculator Application", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/26994489?v=4", 
+      "projectId": "sung-eun/flutter_calculator", 
+      "userId": "sung-eun", 
+      "commitCount": 19, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 30, 
+      "readmeScore": 5
+    }, 
+    {
       "isTutorial": 1, 
       "description": "Weather Application", 
       "avatarUrl": "https://avatars2.githubusercontent.com/u/7722921?v=4", 
@@ -76,17 +87,6 @@
       "newFeatureScore": 0, 
       "defaultFeatureScore": 0, 
       "readmeScore": 0
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Calculator Application", 
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/26994489?v=4", 
-      "projectId": "sung-eun/flutter_calculator", 
-      "userId": "sung-eun", 
-      "commitCount": 18, 
-      "newFeatureScore": 0, 
-      "defaultFeatureScore": 20, 
-      "readmeScore": 5
     }, 
     {
       "isTutorial": 1, 
