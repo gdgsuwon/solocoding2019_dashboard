@@ -17,10 +17,10 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/7118300?v=4", 
       "projectId": "JUSTIVE/AllYourWidgetAreBelongToUs", 
       "userId": "JUSTIVE", 
-      "commitCount": 32, 
+      "commitCount": 36, 
       "newFeatureScore": 0, 
-      "defaultFeatureScore": 0, 
-      "readmeScore": 0
+      "defaultFeatureScore": 50, 
+      "readmeScore": 5
     }, 
     {
       "isTutorial": 1, 
