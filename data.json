@@ -167,6 +167,17 @@
     }, 
     {
       "isTutorial": 0, 
+      "description": "Todo Application", 
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/42856196?v=4", 
+      "projectId": "YJZZING/solocoding2019_base", 
+      "userId": "YJZZING", 
+      "commitCount": 15, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "readmeScore": 0
+    }, 
+    {
+      "isTutorial": 0, 
       "description": "Weather Application", 
       "avatarUrl": "https://avatars3.githubusercontent.com/u/28642472?v=4", 
       "projectId": "inthewalter/solocoding2019_base", 
@@ -193,17 +204,6 @@
       "avatarUrl": "https://avatars3.githubusercontent.com/u/42855462?v=4", 
       "projectId": "achiven/solocoding2019_base", 
       "userId": "achiven", 
-      "commitCount": 14, 
-      "newFeatureScore": 0, 
-      "defaultFeatureScore": 0, 
-      "readmeScore": 0
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Todo Application", 
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/42856196?v=4", 
-      "projectId": "YJZZING/solocoding2019_base", 
-      "userId": "YJZZING", 
       "commitCount": 14, 
       "newFeatureScore": 0, 
       "defaultFeatureScore": 0, 
