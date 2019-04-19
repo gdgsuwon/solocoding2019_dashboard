@@ -156,6 +156,17 @@
     }, 
     {
       "isTutorial": 0, 
+      "description": "Memo Application", 
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6939460?v=4", 
+      "projectId": "yoonjaepark/solocoding2019_base", 
+      "userId": "yoonjaepark", 
+      "commitCount": 15, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 20, 
+      "readmeScore": 0
+    }, 
+    {
+      "isTutorial": 0, 
       "description": "Weather Application", 
       "avatarUrl": "https://avatars3.githubusercontent.com/u/28642472?v=4", 
       "projectId": "inthewalter/solocoding2019_base", 
@@ -468,17 +479,6 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/44540451?v=4", 
       "projectId": "narsyaj/solocoding2019_base", 
       "userId": "narsyaj", 
-      "commitCount": 8, 
-      "newFeatureScore": 0, 
-      "defaultFeatureScore": 0, 
-      "readmeScore": 0
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Memo Application", 
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6939460?v=4", 
-      "projectId": "yoonjaepark/solocoding2019_base", 
-      "userId": "yoonjaepark", 
       "commitCount": 8, 
       "newFeatureScore": 0, 
       "defaultFeatureScore": 0, 
