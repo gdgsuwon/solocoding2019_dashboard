@@ -25,6 +25,18 @@
       "readmeScore": 5
     }, 
     {
+      "isTutorial": 0, 
+      "description": "Calculator Application", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/26994489?v=4", 
+      "projectId": "sung-eun/flutter_calculator", 
+      "userId": "sung-eun", 
+      "commitCount": 26, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 60, 
+      "totalScore": 65, 
+      "readmeScore": 5
+    }, 
+    {
       "isTutorial": 1, 
       "description": "Todo Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/7118300?v=4", 
@@ -55,18 +67,6 @@
       "projectId": "hyeongjudev/solocoding2019_base", 
       "userId": "hyeongjudev", 
       "commitCount": 44, 
-      "newFeatureScore": 0, 
-      "defaultFeatureScore": 40, 
-      "totalScore": 45, 
-      "readmeScore": 5
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Calculator Application", 
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/26994489?v=4", 
-      "projectId": "sung-eun/flutter_calculator", 
-      "userId": "sung-eun", 
-      "commitCount": 24, 
       "newFeatureScore": 0, 
       "defaultFeatureScore": 40, 
       "totalScore": 45, 
