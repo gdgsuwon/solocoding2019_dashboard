@@ -98,6 +98,18 @@
     }, 
     {
       "isTutorial": 0, 
+      "description": "Calculator Application", 
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/22537805?v=4", 
+      "projectId": "ny0011/flutter_calculator", 
+      "userId": "ny0011", 
+      "commitCount": 20, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 10, 
+      "totalScore": 15, 
+      "readmeScore": 5
+    }, 
+    {
+      "isTutorial": 0, 
       "description": "Weather Application", 
       "avatarUrl": "https://avatars3.githubusercontent.com/u/2580013?v=4", 
       "projectId": "dudgus/solocoding2019_base", 
@@ -114,18 +126,6 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/28588348?v=4", 
       "projectId": "chongchong2/solocoding2019_base", 
       "userId": "chongchong2", 
-      "commitCount": 19, 
-      "newFeatureScore": 0, 
-      "defaultFeatureScore": 0, 
-      "totalScore": 0, 
-      "readmeScore": 0
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Calculator Application", 
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/22537805?v=4", 
-      "projectId": "ny0011/flutter_calculator", 
-      "userId": "ny0011", 
       "commitCount": 19, 
       "newFeatureScore": 0, 
       "defaultFeatureScore": 0, 
