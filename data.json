@@ -85,18 +85,6 @@
       "readmeScore": 0
     }, 
     {
-      "isTutorial": 1, 
-      "description": "Dashboard Application", 
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/4569945?v=4", 
-      "projectId": "yjaeseok/solocoding2019_dashboard_app", 
-      "userId": "yjaeseok", 
-      "commitCount": 32, 
-      "newFeatureScore": 2, 
-      "defaultFeatureScore": 10, 
-      "totalScore": 17, 
-      "readmeScore": 5
-    }, 
-    {
       "isTutorial": 0, 
       "description": "Memo Application", 
       "avatarUrl": "https://avatars2.githubusercontent.com/u/21276999?v=4", 
