@@ -39,6 +39,18 @@
     {
       "isTutorial": 1, 
       "description": "Todo Application", 
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/37387742?v=4", 
+      "projectId": "hyeongjudev/solocoding2019_base", 
+      "userId": "hyeongjudev", 
+      "commitCount": 49, 
+      "newFeatureScore": 4, 
+      "defaultFeatureScore": 50, 
+      "totalScore": 59, 
+      "readmeScore": 5
+    }, 
+    {
+      "isTutorial": 1, 
+      "description": "Todo Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/7118300?v=4", 
       "projectId": "JUSTIVE/AllYourWidgetAreBelongToUs", 
       "userId": "JUSTIVE", 
@@ -58,18 +70,6 @@
       "newFeatureScore": 4, 
       "defaultFeatureScore": 50, 
       "totalScore": 59, 
-      "readmeScore": 5
-    }, 
-    {
-      "isTutorial": 1, 
-      "description": "Todo Application", 
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/37387742?v=4", 
-      "projectId": "hyeongjudev/solocoding2019_base", 
-      "userId": "hyeongjudev", 
-      "commitCount": 47, 
-      "newFeatureScore": 2, 
-      "defaultFeatureScore": 50, 
-      "totalScore": 57, 
       "readmeScore": 5
     }, 
     {
