@@ -6,7 +6,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/12050742?v=4", 
       "projectId": "yoonhok524/solocoding2019_base", 
       "userId": "yoonhok524", 
-      "commitCount": 40, 
+      "commitCount": 41, 
       "newFeatureScore": 0, 
       "defaultFeatureScore": 60, 
       "totalScore": 65, 
@@ -54,7 +54,7 @@
       "avatarUrl": "https://avatars1.githubusercontent.com/u/7118300?v=4", 
       "projectId": "JUSTIVE/AllYourWidgetAreBelongToUs", 
       "userId": "JUSTIVE", 
-      "commitCount": 36, 
+      "commitCount": 38, 
       "newFeatureScore": 0, 
       "defaultFeatureScore": 50, 
       "totalScore": 55, 
@@ -75,6 +75,18 @@
     {
       "isTutorial": 0, 
       "description": "Memo Application", 
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/21276999?v=4", 
+      "projectId": "woo972/FlutterSimpleMemoApp", 
+      "userId": "woo972", 
+      "commitCount": 6, 
+      "newFeatureScore": 2, 
+      "defaultFeatureScore": 30, 
+      "totalScore": 37, 
+      "readmeScore": 5
+    }, 
+    {
+      "isTutorial": 0, 
+      "description": "Memo Application", 
       "avatarUrl": "https://avatars2.githubusercontent.com/u/6939460?v=4", 
       "projectId": "yoonjaepark/solocoding2019_base", 
       "userId": "yoonjaepark", 
@@ -83,18 +95,6 @@
       "defaultFeatureScore": 20, 
       "totalScore": 20, 
       "readmeScore": 0
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Memo Application", 
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/21276999?v=4", 
-      "projectId": "woo972/FlutterSimpleMemoApp", 
-      "userId": "woo972", 
-      "commitCount": 5, 
-      "newFeatureScore": 2, 
-      "defaultFeatureScore": 10, 
-      "totalScore": 17, 
-      "readmeScore": 5
     }, 
     {
       "isTutorial": 0, 
