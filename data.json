@@ -575,6 +575,21 @@
       "defaultFeatureScore": 0, 
       "totalScore": 0, 
       "readmeScore": 0
+    }, {
+      "description": "Calculator Application", 
+      "projectId": "Winrobrine/solocoding2019_base", 
+    }, {
+      "description": "-", 
+      "projectId": "753alfred/solocoding2019_base", 
+    }, {
+      "description": "Map Application", 
+      "projectId": "greenbros-kwkim/solocoding2019_base", 
+    }, {
+      "description": "-", 
+      "projectId": "JC-Choo/solocoding2019_base", 
+    }, {
+      "description": "Dashboard Application", 
+      "projectId": "yjaeseok/solocoding2019_dashboard_app", 
     }
   ]
 }
