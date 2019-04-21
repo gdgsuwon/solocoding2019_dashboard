@@ -577,24 +577,64 @@
       "readmeScore": 0
     },
     {
+      "isTutorial": 0, 
       "description": "Calculator Application", 
-      "projectId": "Winrobrine/solocoding2019_base"
+      "projectId": "Winrobrine/solocoding2019_base",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1106770?v=4", 
+      "userId": "romandev", 
+      "commitCount": 7, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "totalScore": 0, 
+      "readmeScore": 0
     },
     {
+      "isTutorial": 0, 
       "description": "-", 
-      "projectId": "753alfred/solocoding2019_base"
+      "projectId": "753alfred/solocoding2019_base", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1106770?v=4", 
+      "userId": "romandev", 
+      "commitCount": 7, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "totalScore": 0, 
+      "readmeScore": 0
     },
     {
+      "isTutorial": 0, 
       "description": "Map Application", 
-      "projectId": "greenbros-kwkim/solocoding2019_base"
+      "projectId": "greenbros-kwkim/solocoding2019_base", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1106770?v=4", 
+      "userId": "romandev", 
+      "commitCount": 7, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "totalScore": 0, 
+      "readmeScore": 0
     },
     {
+      "isTutorial": 0, 
       "description": "-", 
-      "projectId": "JC-Choo/solocoding2019_base"
+      "projectId": "JC-Choo/solocoding2019_base", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1106770?v=4", 
+      "userId": "romandev", 
+      "commitCount": 7, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "totalScore": 0, 
+      "readmeScore": 0
     },
     {
+      "isTutorial": 0, 
       "description": "Dashboard Application", 
-      "projectId": "yjaeseok/solocoding2019_dashboard_app"
+      "projectId": "yjaeseok/solocoding2019_dashboard_app", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1106770?v=4", 
+      "userId": "romandev", 
+      "commitCount": 7, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "totalScore": 0, 
+      "readmeScore": 0
     }
   ]
 }
