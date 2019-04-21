@@ -74,6 +74,18 @@
     }, 
     {
       "isTutorial": 0, 
+      "description": "Todo Application", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1445542?v=4", 
+      "projectId": "nurinamu/solocoding2019_base", 
+      "userId": "nurinamu", 
+      "commitCount": 18, 
+      "newFeatureScore": 2, 
+      "defaultFeatureScore": 40, 
+      "totalScore": 47, 
+      "readmeScore": 5
+    }, 
+    {
+      "isTutorial": 0, 
       "description": "Memo Application", 
       "avatarUrl": "https://avatars2.githubusercontent.com/u/21276999?v=4", 
       "projectId": "woo972/FlutterSimpleMemoApp", 
@@ -151,18 +163,6 @@
       "projectId": "denlyou/solocoding2019_base", 
       "userId": "denlyou", 
       "commitCount": 17, 
-      "newFeatureScore": 0, 
-      "defaultFeatureScore": 0, 
-      "totalScore": 0, 
-      "readmeScore": 0
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Todo Application", 
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1445542?v=4", 
-      "projectId": "nurinamu/solocoding2019_base", 
-      "userId": "nurinamu", 
-      "commitCount": 16, 
       "newFeatureScore": 0, 
       "defaultFeatureScore": 0, 
       "totalScore": 0, 
