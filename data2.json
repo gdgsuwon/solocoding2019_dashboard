@@ -10,7 +10,8 @@
       "newFeatureScore": 2, 
       "defaultFeatureScore": 70, 
       "totalScore": 77, 
-      "readmeScore": 5
+      "readmeScore": 5,
+      "implScore": 77
     }, 
     {
       "isTutorial": 0, 
@@ -22,7 +23,8 @@
       "newFeatureScore": 2, 
       "defaultFeatureScore": 60, 
       "totalScore": 67, 
-      "readmeScore": 5
+      "readmeScore": 5,
+      "implScore": 67
     }, 
     {
       "isTutorial": 0, 
@@ -34,7 +36,8 @@
       "newFeatureScore": 0, 
       "defaultFeatureScore": 60, 
       "totalScore": 65, 
-      "readmeScore": 5
+      "readmeScore": 5,
+      "implScore": 65
     }, 
     {
       "isTutorial": 0, 
@@ -46,7 +49,8 @@
       "newFeatureScore": 0, 
       "defaultFeatureScore": 60, 
       "totalScore": 65, 
-      "readmeScore": 5
+      "readmeScore": 5,
+      "implScore": 75
     }, 
     {
       "isTutorial": 1, 
@@ -58,7 +62,8 @@
       "newFeatureScore": 7, 
       "defaultFeatureScore": 50, 
       "totalScore": 62, 
-      "readmeScore": 5
+      "readmeScore": 5,
+      "implScore": 62
     }, 
     {
       "isTutorial": 1, 
@@ -70,7 +75,8 @@
       "newFeatureScore": 6, 
       "defaultFeatureScore": 50, 
       "totalScore": 61, 
-      "readmeScore": 5
+      "readmeScore": 5,
+      "implScore": 61
     }, 
     {
       "isTutorial": 0, 
@@ -82,7 +88,8 @@
       "newFeatureScore": 4, 
       "defaultFeatureScore": 50, 
       "totalScore": 59, 
-      "readmeScore": 5
+      "readmeScore": 5,
+      "implScore": 59
     }, 
     {
       "isTutorial": 1, 
