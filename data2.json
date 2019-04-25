@@ -16,6 +16,19 @@
     {
       "isTutorial": 0, 
       "description": "Calculator Application", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/26994489?v=4", 
+      "projectId": "sung-eun/flutter_calculator", 
+      "userId": "sung-eun", 
+      "implScore": 75, 
+      "commitCount": 30, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 60, 
+      "totalScore": 65, 
+      "readmeScore": 5
+    }, 
+    {
+      "isTutorial": 0, 
+      "description": "Calculator Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/10994162?v=4", 
       "projectId": "Winrobrine/solocoding2019_base", 
       "userId": "Winrobrine", 
@@ -40,16 +53,16 @@
       "readmeScore": 5
     }, 
     {
-      "isTutorial": 0, 
-      "description": "Calculator Application", 
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/26994489?v=4", 
-      "projectId": "sung-eun/flutter_calculator", 
-      "userId": "sung-eun", 
-      "implScore": 75, 
-      "commitCount": 30, 
+      "isTutorial": 1, 
+      "description": "Weather Application", 
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/28588348?v=4", 
+      "projectId": "chongchong2/solocoding2019_base", 
+      "userId": "chongchong2", 
+      "implScore": 65, 
+      "commitCount": 21, 
       "newFeatureScore": 0, 
-      "defaultFeatureScore": 60, 
-      "totalScore": 65, 
+      "defaultFeatureScore": 50, 
+      "totalScore": 55, 
       "readmeScore": 5
     }, 
     {
@@ -89,32 +102,6 @@
       "newFeatureScore": 4, 
       "defaultFeatureScore": 50, 
       "totalScore": 59, 
-      "readmeScore": 5
-    }, 
-    {
-      "isTutorial": 1, 
-      "description": "Weather Application", 
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/28588348?v=4", 
-      "projectId": "chongchong2/solocoding2019_base", 
-      "userId": "chongchong2", 
-      "implScore": 65, 
-      "commitCount": 21, 
-      "newFeatureScore": 0, 
-      "defaultFeatureScore": 50, 
-      "totalScore": 55, 
-      "readmeScore": 5
-    }, 
-    {
-      "isTutorial": 1, 
-      "description": "Map Application", 
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/7637234?v=4", 
-      "projectId": "Youngwuk/solocoding2019_base", 
-      "userId": "Youngwuk", 
-      "implScore": 0, 
-      "commitCount": 19, 
-      "newFeatureScore": 0, 
-      "defaultFeatureScore": 50, 
-      "totalScore": 55, 
       "readmeScore": 5
     }, 
     {
@@ -170,17 +157,17 @@
       "readmeScore": 5
     }, 
     {
-      "isTutorial": 0, 
-      "description": "Memo Application", 
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6939460?v=4", 
-      "projectId": "yoonjaepark/solocoding2019_base", 
-      "userId": "yoonjaepark", 
-      "implScore": 0, 
-      "commitCount": 18, 
+      "isTutorial": 1, 
+      "description": "Todo Application", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/49572961?v=4", 
+      "projectId": "songkiwon7/solocoding2019_base", 
+      "userId": "songkiwon7", 
+      "implScore": 25, 
+      "commitCount": 13, 
       "newFeatureScore": 0, 
-      "defaultFeatureScore": 30, 
-      "totalScore": 35, 
-      "readmeScore": 5
+      "defaultFeatureScore": 0, 
+      "totalScore": 0, 
+      "readmeScore": 0
     }, 
     {
       "isTutorial": 0, 
@@ -196,6 +183,58 @@
       "readmeScore": 5
     }, 
     {
+      "isTutorial": 0, 
+      "description": "Todo Application", 
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/17263598?v=4", 
+      "projectId": "ironelder/solocoding2019_base", 
+      "userId": "ironelder", 
+      "implScore": 5, 
+      "commitCount": 13, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "totalScore": 0, 
+      "readmeScore": 0
+    }, 
+    {
+      "isTutorial": 0, 
+      "description": "Calculator Application", 
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/13127145?v=4", 
+      "projectId": "JJByun/solocoding2019_base", 
+      "userId": "JJByun", 
+      "implScore": 5, 
+      "commitCount": 11, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "totalScore": 0, 
+      "readmeScore": 0
+    }, 
+    {
+      "isTutorial": 0, 
+      "description": "Memo Application", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/6122066?v=4", 
+      "projectId": "Hoyuo/solocoding2019_base", 
+      "userId": "Hoyuo", 
+      "implScore": 5, 
+      "commitCount": 11, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "totalScore": 0, 
+      "readmeScore": 0
+    }, 
+    {
+      "isTutorial": 0, 
+      "description": "Todo Application", 
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/25128184?v=4", 
+      "projectId": "BaylePark/GiveMeFlutter", 
+      "userId": "BaylePark", 
+      "implScore": 5, 
+      "commitCount": 7, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 0, 
+      "totalScore": 0, 
+      "readmeScore": 0
+    }, 
+    {
       "isTutorial": 1, 
       "description": "Dashboard Application", 
       "avatarUrl": "https://avatars1.githubusercontent.com/u/4569945?v=4", 
@@ -209,6 +248,19 @@
       "readmeScore": 0
     }, 
     {
+      "isTutorial": 1, 
+      "description": "Map Application", 
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/7637234?v=4", 
+      "projectId": "Youngwuk/solocoding2019_base", 
+      "userId": "Youngwuk", 
+      "implScore": 0, 
+      "commitCount": 19, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 50, 
+      "totalScore": 55, 
+      "readmeScore": 5
+    }, 
+    {
       "isTutorial": 0, 
       "description": "Weather Application", 
       "avatarUrl": "https://avatars3.githubusercontent.com/u/12027688?v=4", 
@@ -220,6 +272,19 @@
       "defaultFeatureScore": 0, 
       "totalScore": 0, 
       "readmeScore": 0
+    }, 
+    {
+      "isTutorial": 0, 
+      "description": "Memo Application", 
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6939460?v=4", 
+      "projectId": "yoonjaepark/solocoding2019_base", 
+      "userId": "yoonjaepark", 
+      "implScore": 0, 
+      "commitCount": 18, 
+      "newFeatureScore": 0, 
+      "defaultFeatureScore": 30, 
+      "totalScore": 35, 
+      "readmeScore": 5
     }, 
     {
       "isTutorial": 1, 
@@ -274,32 +339,6 @@
       "readmeScore": 0
     }, 
     {
-      "isTutorial": 1, 
-      "description": "Todo Application", 
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/49572961?v=4", 
-      "projectId": "songkiwon7/solocoding2019_base", 
-      "userId": "songkiwon7", 
-      "implScore": 25, 
-      "commitCount": 13, 
-      "newFeatureScore": 0, 
-      "defaultFeatureScore": 0, 
-      "totalScore": 0, 
-      "readmeScore": 0
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Todo Application", 
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/17263598?v=4", 
-      "projectId": "ironelder/solocoding2019_base", 
-      "userId": "ironelder", 
-      "implScore": 5, 
-      "commitCount": 13, 
-      "newFeatureScore": 0, 
-      "defaultFeatureScore": 0, 
-      "totalScore": 0, 
-      "readmeScore": 0
-    }, 
-    {
       "isTutorial": 0, 
       "description": "Map Application", 
       "avatarUrl": "https://avatars3.githubusercontent.com/u/20222599?v=4", 
@@ -307,32 +346,6 @@
       "userId": "greenbros-kwkim", 
       "implScore": 0, 
       "commitCount": 12, 
-      "newFeatureScore": 0, 
-      "defaultFeatureScore": 0, 
-      "totalScore": 0, 
-      "readmeScore": 0
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Calculator Application", 
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/13127145?v=4", 
-      "projectId": "JJByun/solocoding2019_base", 
-      "userId": "JJByun", 
-      "implScore": 5, 
-      "commitCount": 11, 
-      "newFeatureScore": 0, 
-      "defaultFeatureScore": 0, 
-      "totalScore": 0, 
-      "readmeScore": 0
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Memo Application", 
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/6122066?v=4", 
-      "projectId": "Hoyuo/solocoding2019_base", 
-      "userId": "Hoyuo", 
-      "implScore": 5, 
-      "commitCount": 11, 
       "newFeatureScore": 0, 
       "defaultFeatureScore": 0, 
       "totalScore": 0, 
@@ -644,19 +657,6 @@
       "projectId": "amazingguni/solocoding2019_base", 
       "userId": "amazingguni", 
       "implScore": 0, 
-      "commitCount": 7, 
-      "newFeatureScore": 0, 
-      "defaultFeatureScore": 0, 
-      "totalScore": 0, 
-      "readmeScore": 0
-    }, 
-    {
-      "isTutorial": 0, 
-      "description": "Todo Application", 
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/25128184?v=4", 
-      "projectId": "BaylePark/GiveMeFlutter", 
-      "userId": "BaylePark", 
-      "implScore": 5, 
       "commitCount": 7, 
       "newFeatureScore": 0, 
       "defaultFeatureScore": 0, 
